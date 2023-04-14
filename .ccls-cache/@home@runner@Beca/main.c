@@ -8,5 +8,6 @@ int main(void) {
     printf("Usted es candidato a una beca");
   else
     printf("Su promedio no es suficiente para solicitar una beca");
+  printf("gracias por su visita")
   return 0;
 }
